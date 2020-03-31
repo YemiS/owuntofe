@@ -1,0 +1,23 @@
+{
+  "name": "owuntofe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YemiS/owuntofe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YemiS/owuntofe/issues"
+  },
+  "homepage": "https://github.com/YemiS/owuntofe#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^13.12.0"
+  }
+}
